@@ -33,21 +33,21 @@ We consider a speech enhancement setup where neural speech embeddings, obtained 
   <tbody>
     <tr>
       <td>Sample 1</td>
-      <td><audio controls  src="p232_002.wav"> </audio></td>
-      <td><audio controls  src="p232_002.wav"> </audio></td>
-      <td><audio controls  src="p232_002.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/cleanvocoder_p232_006.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/denoising_p232_006.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/proposed_p232_006.wav"> </audio></td>
     </tr>
     <tr>
       <td>Sample 2</td>
-      <td><audio controls  src="p232_002.wav"> </audio></td>
-      <td><audio controls  src="p232_002.wav"> </audio></td>
-      <td><audio controls  src="p232_002.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/cleanvocoder_p232_200.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/denoising_p232_200.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/proposed_p232_200.wav"> </audio></td>
     </tr>
     <tr>
       <td>Sample 3</td>
-      <td><audio controls  src="p232_002.wav"> </audio></td>
-      <td><audio controls  src="p232_002.wav"> </audio></td>
-      <td><audio controls  src="p232_002.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/cleanvocoder_p257_044.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/denoising_p257_044.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/proposed_p257_044.wav"> </audio></td>
       </tr>
   </tbody>
 </table>
@@ -66,21 +66,21 @@ We consider a speech enhancement setup where neural speech embeddings, obtained 
   <tbody>
     <tr>
       <td>Sample 1</td>
-      <td><audio controls  src="p232_002.wav"></audio></td>
-      <td><audio controls  src="p232_002.wav"> </audio></td>
-      <td><audio controls  src="p232_002.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/hubert_p232_014.wav"></audio></td>
+      <td><audio controls  src="samples/demo_samples/wavlm_p232_014.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/tera_p232_014.wav"> </audio></td>
     </tr>
     <tr>
       <td>Sample 2</td>
-      <td><audio controls  src="p232_002.wav"> </audio></td>
-      <td><audio controls  src="p232_002.wav"> </audio></td>
-      <td><audio controls  src="p232_002.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/hubert_p232_363.wav"></audio></td>
+      <td><audio controls  src="samples/demo_samples/wavlm_p232_363.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/tera_p232_363.wav"> </audio></td>
     </tr>
     <tr>
       <td>Sample 3</td>
-      <td><audio controls  src="p232_002.wav"> </audio></td>
-      <td><audio controls  src="p232_002.wav"> </audio></td>
-      <td><audio controls  src="p232_002.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/hubert_p257_429.wav"></audio></td>
+      <td><audio controls  src="samples/demo_samples/wavlm_p257_429.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/tera_p257_429.wav"> </audio></td>
     </tr>
   </tbody>
 </table>
