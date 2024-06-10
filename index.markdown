@@ -39,25 +39,25 @@ We consider a speech enhancement setup where neural speech embeddings, obtained 
       <td>Sample 1</td>
       <td><audio controls  src="samples/demo_samples/distorted_p257_045.wav"> </audio></td>
       <td><audio controls  src="samples/demo_samples/target_p257_045.wav"> </audio></td>
-      <td><audio controls  src="samples/demo_samples/cleanvocoder_p257_045.wav"> </audio></td>
-      <td><audio controls  src="samples/demo_samples/denoising_p257_045.wav"> </audio></td>
-      <td><audio controls  src="samples/demo_samples/proposed_p257_045.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/yj_samples/target_p257_045_6_4-9_1+tera_embOnly+spec_power_l1+msd-mpd_ep100_ideal.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/yj_samples/distorted_p257_045_6_5-10_20+tera_embOnly+spec_power_l1+msd-mpd_eptemp_DeVo.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/yj_samples/distorted_p257_045_6_4-9_1+tera_embOnly+spec_power_l1+msd-mpd_ep100_embNet_ideal.wav"> </audio></td>
     </tr>
       <tr>
       <td>Sample 2</td>
       <td><audio controls  src="samples/demo_samples/distorted_p232_287.wav"> </audio></td>
       <td><audio controls  src="samples/demo_samples/target_p232_287.wav"> </audio></td>
-      <td><audio controls  src="samples/demo_samples/cleanvocoder_p232_287.wav"> </audio></td>
-      <td><audio controls  src="samples/demo_samples/denoising_p232_287.wav"> </audio></td>
-      <td><audio controls  src="samples/demo_samples/proposed_p232_287.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/yj_samples/target_p232_287_6_4-9_1+tera_embOnly+spec_power_l1+msd-mpd_ep100_ideal.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/yj_samples/distorted_p232_287_6_5-10_20+tera_embOnly+spec_power_l1+msd-mpd_eptemp_DeVo.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/yj_samples/distorted_p232_287_6_4-9_1+tera_embOnly+spec_power_l1+msd-mpd_ep100_embNet_ideal.wav"> </audio></td>
       </tr>
     <tr>
       <td>Sample 3</td>
       <td><audio controls  src="samples/demo_samples/distorted_p257_417.wav"> </audio></td>
       <td><audio controls  src="samples/demo_samples/target_p257_417.wav"> </audio></td>
-      <td><audio controls  src="samples/demo_samples/cleanvocoder_p257_417.wav"> </audio></td>
-      <td><audio controls  src="samples/demo_samples/denoising_p257_417.wav"> </audio></td>
-      <td><audio controls  src="samples/demo_samples/proposed_p257_417.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/yj_samples/target_p257_417_6_4-9_1+tera_embOnly+spec_power_l1+msd-mpd_ep100_ideal.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/yj_samples/distorted_p257_417_6_5-10_20+tera_embOnly+spec_power_l1+msd-mpd_eptemp_DeVo.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/yj_samples/distorted_p257_417_6_4-9_1+tera_embOnly+spec_power_l1+msd-mpd_ep100_embNet_ideal.wav"> </audio></td>
     </tr>
   </tbody>
 </table>
