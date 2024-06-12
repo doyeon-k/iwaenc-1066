@@ -40,25 +40,25 @@ We consider a speech enhancement setup where neural speech embeddings, obtained 
 <<<<<<< HEAD
       <td><audio controls  src="samples/demo_samples/distorted_p257_045.wav"> </audio></td>
       <td><audio controls  src="samples/demo_samples/target_p257_045.wav"> </audio></td>
-      <td><audio controls  src="samples/demo_samples/1_cleanvocoder_g_01275000/g_01275000/p257_045.wav"> </audio></td>
-      <td><audio controls  src="samples/demo_samples/1_denoisingvocoder_epoch_50/epoch_50/p257_045.wav"> </audio></td>
-      <td><audio controls  src="samples/demo_samples/1_proposed_g_01145000/g_01145000/p257_045.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/cleanvocoder_p257_045.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/denoising_p257_045.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/proposed_p257_045.wav"> </audio></td>
     </tr>
       <tr>
       <td>Sample 2</td>
       <td><audio controls  src="samples/demo_samples/distorted_p232_287.wav"> </audio></td>
       <td><audio controls  src="samples/demo_samples/target_p232_287.wav"> </audio></td>
-      <td><audio controls  src="samples/demo_samples/1_cleanvocoder_g_01275000/g_01275000/p232_287.wav"> </audio></td>
-      <td><audio controls  src="samples/demo_samples/1_denoisingvocoder_epoch_50/epoch_50/p232_287.wav"> </audio></td>
-      <td><audio controls  src="samples/demo_samples/1_proposed_g_01145000/g_01145000/p232_287.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/cleanvocoder_p232_287.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/denoising_p232_287.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/proposed_p232_287.wav"> </audio></td>
       </tr>
     <tr>
       <td>Sample 3</td>
       <td><audio controls  src="samples/demo_samples/distorted_p257_417.wav"> </audio></td>
       <td><audio controls  src="samples/demo_samples/target_p257_417.wav"> </audio></td>
-      <td><audio controls  src="samples/demo_samples/1_cleanvocoder_g_01275000/g_01275000/p257_417.wav"> </audio></td>
-      <td><audio controls  src="samples/demo_samples/1_denoisingvocoder_epoch_50/epoch_50/p257_417.wav"> </audio></td>
-      <td><audio controls  src="samples/demo_samples/1_proposed_g_01145000/g_01145000/p257_417.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/cleanvocoder_p257_417.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/denoising_p257_417.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/proposed_p257_417.wav"> </audio></td>
     </tr>
   </tbody>
 </table>
