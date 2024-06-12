@@ -37,7 +37,6 @@ We consider a speech enhancement setup where neural speech embeddings, obtained 
   <tbody>
     <tr>
       <td>Sample 1</td>
-<<<<<<< HEAD
       <td><audio controls  src="samples/demo_samples/distorted_p257_045.wav"> </audio></td>
       <td><audio controls  src="samples/demo_samples/target_p257_045.wav"> </audio></td>
       <td><audio controls  src="samples/demo_samples/cleanvocoder_p257_045.wav"> </audio></td>
