@@ -39,25 +39,25 @@ We consider a speech enhancement setup where neural speech embeddings, obtained 
       <td>Sample 1</td>
       <td><audio controls  src="samples/demo_samples/distorted_p257_045.wav"> </audio></td>
       <td><audio controls  src="samples/demo_samples/target_p257_045.wav"> </audio></td>
-      <td><audio controls  src="samples/demos_samples/cleanvocoder_p257_045.wav"> </audio></td>
-      <td><audio controls  src="samples/demos_samples/denoising_p257_045.wav"> </audio></td>
-      <td><audio controls  src="samples/demos_samples/proposed_p257_045.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/cleanvocoder_p257_045.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/denoising_p257_045.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/proposed_p257_045.wav"> </audio></td>
     </tr>
       <tr>
       <td>Sample 2</td>
-      <td><audio controls  src="samples/demos_samples/distorted_fileid_6228.wav"> </audio></td>
-      <td><audio controls  src="samples/demos_samples/target_fileid_6228.wav"> </audio></td>
-      <td><audio controls  src="samples/demos_samples/cleanvocoder_fileid_6228.wav"> </audio></td>
-      <td><audio controls  src="samples/demos_samples/denoising_fileid_6228.wav"> </audio></td>
-      <td><audio controls  src="samples/demos_samples/proposed_fileid_6228.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/distorted_fileid_6228.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/target_fileid_6228.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/cleanvocoder_fileid_6228.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/denoising_fileid_6228.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/proposed_fileid_6228.wav"> </audio></td>
       </tr>
     <tr>
       <td>Sample 3</td>
-      <td><audio controls  src="samples/demos_samples/distorted_fileid_12414.wav"> </audio></td>
-      <td><audio controls  src="samples/demos_samples/target_fileid_12414.wav"> </audio></td>
-      <td><audio controls  src="samples/demos_samples/cleanvocoder_fileid_12414.wav"> </audio></td>
-      <td><audio controls  src="samples/demos_samples/denoising_fileid_12414.wav"> </audio></td>
-      <td><audio controls  src="samples/demos_samples/proposed_fileid_12414.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/distorted_fileid_12414.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/target_fileid_12414.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/cleanvocoder_fileid_12414.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/denoising_fileid_12414.wav"> </audio></td>
+      <td><audio controls  src="samples/demo_samples/proposed_fileid_12414.wav"> </audio></td>
     </tr>
   </tbody>
 </table>
